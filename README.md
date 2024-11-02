@@ -2,7 +2,7 @@
 
 ## Description
 
-**MovieShop Manager** is a command-line application designed to manage movie shops and their inventory of movies. Users can create, update, delete, and search for movie shops and movies based on various criteria such as genre and title.
+**MovieShop Manager** is a command-line application designed to manage movie shops and their inventory of movies. Users can create, update, delete, and search for movie shops and movies based on various criteria such as genre and title. The project's pitch and demonstration presentation can be accessed at https://drive.google.com/drive/folders/1s1rcNse_Q8iT7zu6VTaSsxmeTxWW0KFn?usp=sharing
 
 ## Features
 
